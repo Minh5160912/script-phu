@@ -1,0 +1,6 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/script-phu/refs/heads/main/3667"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/script-phu/refs/heads/main/Fastattackandm1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/script-phu/refs/heads/main/Fastattackv1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/script-phu/refs/heads/main/Ultrafastattack"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/script-phu/refs/heads/main/bypass%20sever"))()
